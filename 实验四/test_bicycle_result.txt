@@ -1,0 +1,9 @@
+检测时间: 2026-01-22 10:11:05.588638
+检测到 6 辆自行车
+
+Bicycle 1: bbox=[np.int64(2582), np.int64(1426), np.int64(2834), np.int64(1618)], confidence=0.9932
+Bicycle 2: bbox=[np.int64(790), np.int64(1381), np.int64(916), np.int64(1598)], confidence=0.8396
+Bicycle 3: bbox=[np.int64(2490), np.int64(1414), np.int64(2614), np.int64(1566)], confidence=0.8388
+Bicycle 4: bbox=[np.int64(3650), np.int64(1418), np.int64(3835), np.int64(1508)], confidence=0.6839
+Bicycle 5: bbox=[np.int64(3009), np.int64(1376), np.int64(3254), np.int64(1534)], confidence=0.6051
+Bicycle 6: bbox=[np.int64(2395), np.int64(1394), np.int64(2624), np.int64(1569)], confidence=0.5036
